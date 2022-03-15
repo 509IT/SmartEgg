@@ -1,0 +1,1 @@
+sudo python -u test3.py | tee log
